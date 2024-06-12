@@ -1,0 +1,47 @@
+<mxfile host="Electron" modified="2024-06-12T03:51:35.390Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.3 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="trHN8qpCDpU1SQB2Fho_" version="24.5.3" type="device">
+  <diagram name="第 1 页" id="6PF6CGNoBeS_Y5W85obV">
+    <mxGraphModel dx="1863" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vQKDfxHr3YHbSFIwwJ6I-1" value="Producing code" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="75" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vQKDfxHr3YHbSFIwwJ6I-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vQKDfxHr3YHbSFIwwJ6I-4" target="vQKDfxHr3YHbSFIwwJ6I-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vQKDfxHr3YHbSFIwwJ6I-4" value="sth taking time such as loading data over net" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="80" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vQKDfxHr3YHbSFIwwJ6I-5" value="singer" style="ellipse;whiteSpace=wrap;html=1;rounded=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="75" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vQKDfxHr3YHbSFIwwJ6I-8" value="Consuming code" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="190" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vQKDfxHr3YHbSFIwwJ6I-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vQKDfxHr3YHbSFIwwJ6I-10" target="vQKDfxHr3YHbSFIwwJ6I-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vQKDfxHr3YHbSFIwwJ6I-10" value="someone wants the resule which producing code produce" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="195" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vQKDfxHr3YHbSFIwwJ6I-11" value="fans" style="ellipse;whiteSpace=wrap;html=1;rounded=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="190" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vQKDfxHr3YHbSFIwwJ6I-12" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vQKDfxHr3YHbSFIwwJ6I-1" target="vQKDfxHr3YHbSFIwwJ6I-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="160" as="sourcePoint" />
+            <mxPoint x="50" y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint y="110" />
+              <mxPoint y="225" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vQKDfxHr3YHbSFIwwJ6I-13" value="results" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry y="140" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
